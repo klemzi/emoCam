@@ -6,6 +6,7 @@ https://raspberrypi.stackexchange.com/questions/69169/how-to-install-opencv-on-r
 3. install cognitive face python sdk
 4. install azure iot hub python sdk
 5. run download and run the python script emoCam.py
-
+6. view dashboard with the link below.
+https://app.powerbi.com/view?r=eyJrIjoiMzUyNDBmZDEtMTdmNS00Yzk1LTkxZjItMTY4OTdmMDM1ZTNmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9
 
 cheers!!
