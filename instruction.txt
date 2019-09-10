@@ -1,0 +1,11 @@
+      INSTRUCTIONS
+
+1. Install raspbian stretch.
+2. install opencv, the link below was quite helfull
+https://raspberrypi.stackexchange.com/questions/69169/how-to-install-opencv-on-raspberry-pi-3-in-raspbian-jessie
+3. install cognitive face python sdk
+4. install azure iot hub python sdk
+5. run download and run the python script emoCam.py
+
+
+cheers!!
